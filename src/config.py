@@ -1,0 +1,8 @@
+MAX_LEN = 512
+TRAIN_BATCH_SIZE = 8
+VAL_BATCH_SIZE = 4
+EPOCHS = 10
+ACCUMULATION = 2
+BERT_PATH = "../input/pytorch_model.bin"
+
+
